@@ -1,0 +1,35 @@
+_repo: The-Cornplanter-Memorial-An-Historical-Sketch-of-Gy-ant-wa-chiaThe-Cornplanter-and-of-the-Six__52347
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Johnson, Samuel Porter
+    birthdate: &id001 1809
+    deathdate: 1893
+    gutenberg_agent_id: '46796'
+    url: http://www.gutenberg.org/2009/agents/46796
+creator:
+  author:
+    agent_name: Snowden, James Ross
+    alias: Snowden, J. Ross (James Ross)
+    birthdate: *id001
+    deathdate: 1878
+    gutenberg_agent_id: '46803'
+    url: http://www.gutenberg.org/2009/agents/46803
+description: ''
+gutenberg_issued: '2016-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52347'
+  lccn: 02019211
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Cornplanter, Seneca chief, 1732?-1836'
+- !lcsh 'Seneca Indians -- Biography'
+- GITenberg
+title: "The Cornplanter Memorial\r\nAn Historical Sketch of Gy-ant-wa-chia—The Cornplanter,\
+  \ and of the Six Nations of Indians."
+url: http://www.gutenberg.org/ebooks/52347
